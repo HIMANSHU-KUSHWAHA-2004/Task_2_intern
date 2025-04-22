@@ -85,6 +85,6 @@
 <p style="font-size: 16px;">For more details or questions, feel free to connect with me:</p>
 
 <ul style="font-size: 16px; padding-left: 20px;">
-  <li>📧 [Email Me](mailto:youremail@example.com)</li>
-  <li>🌐 [Visit My Portfolio](https://yourportfolio.com)</li>
+  <li>📧 [Email Me](hk5652990@gmail.com)</li>
+  <li>🌐 [Visit My Portfolio](<a href="URL">https://himanshu-kushwaha-2004.github.io/Port_folio/</a>)</li>
 </ul>
